@@ -23,7 +23,7 @@ h1, h2 {
 
 span {color: rgb(255, 0, 255);}
 .pozadina{
-	background-image: url("slike/04.png");
+	background-image: url("../html/slike/04.png");
 	}
 
 .drugapozadina {
